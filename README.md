@@ -1,6 +1,5 @@
-# GED0055 Calculus Reviewer
-
-A responsive study website for GED0055 Modules 1–7.
+# Calculus Reviewer
+A responsive study website for Calculus Modules 1–7.
 
 ## Included
 
